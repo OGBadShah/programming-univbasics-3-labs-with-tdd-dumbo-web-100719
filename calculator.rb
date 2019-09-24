@@ -1,3 +1,5 @@
 # Add your variables here
-let first_number = 1
-let second_number = 2
+first_number = 1
+second_number = 2
+
+var sum = first_number + second_number
